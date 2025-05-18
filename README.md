@@ -8,7 +8,7 @@ A simple showcase of custom UI elements built using **AutoHotkey** and styled en
 
 ## 📸 Preview
 
-![UI Screenshot](./screenshot.png) <!-- Rename your image file to `screenshot.png` or change this filename accordingly -->
+![UI Screenshot](assets/screenshot.png) <!-- Rename your image file to `screenshot.png` or change this filename accordingly -->
 
 ---
 
